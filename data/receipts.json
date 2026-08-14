@@ -1,0 +1,51 @@
+[
+  {
+    "id": "19d2d718-0a06-4aaa-9e8d-05e7a9f62eaf",
+    "creditId": "c6b66c01-4fc3-444c-be21-fde7f5322f9f",
+    "quantity": "1",
+    "totalCost": "10.0",
+    "buyerEmail": "a"
+  },
+  {
+    "id": "d31fec97-77de-48c7-aaa4-4f47a55e72e6",
+    "creditId": "d8c23a75-be34-4edd-b06b-ba263887f896",
+    "quantity": "1",
+    "totalCost": "10.0",
+    "buyerEmail": "buyer@gmail.com"
+  },
+  {
+    "id": "55c7b097-4245-4e89-9cac-cd334015a4e0",
+    "creditId": "d8c23a75-be34-4edd-b06b-ba263887f896",
+    "quantity": "1",
+    "totalCost": "10.0",
+    "buyerEmail": "buyer@gmail.com"
+  },
+  {
+    "id": "c9defd2d-c1b5-4158-bae1-9a7c281d430d",
+    "creditId": "6d2c10c4-dfcf-457f-82d9-bb7ad3409667",
+    "quantity": "5",
+    "totalCost": "50.0",
+    "buyerEmail": "buyer@gmail.com"
+  },
+  {
+    "id": "bd46a419-355c-487a-ba07-d511bcc99662",
+    "creditId": "6d2c10c4-dfcf-457f-82d9-bb7ad3409667",
+    "quantity": "5",
+    "totalCost": "50.0",
+    "buyerEmail": "buyer@gmail.com"
+  },
+  {
+    "id": "bee24cf8-29bc-4b61-a90f-35bb0c150be5",
+    "creditId": "1bf313aa-d3aa-4d44-af09-10dec004ea4b",
+    "quantity": "96",
+    "totalCost": "960.0",
+    "buyerEmail": "buyer@gmail.com"
+  },
+  {
+    "id": "162f9d7e-fa94-40be-aad9-951af2e51e43",
+    "creditId": "1bf313aa-d3aa-4d44-af09-10dec004ea4b",
+    "quantity": "4",
+    "totalCost": "40.0",
+    "buyerEmail": "buyer@gmail.com"
+  }
+]
