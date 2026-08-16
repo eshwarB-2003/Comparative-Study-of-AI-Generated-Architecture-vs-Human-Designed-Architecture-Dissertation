@@ -1,4 +1,4 @@
-# AI-Genenrated Software Architecture: Comparative Evaluation of AI-Generated and Human-Designed Architectures
+# AI-Generated Software Architecture: Comparative Evaluation of AI-Generated and Human-Designed Architectures
 
 ## Dissertation Project
 
