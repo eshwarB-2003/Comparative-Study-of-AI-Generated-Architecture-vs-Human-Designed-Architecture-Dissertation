@@ -168,5 +168,3 @@ Do NOT generate UML class diagrams.
 Focus ONLY on software architecture.
 
 ==================================================
-
-Software Requirements Specification
