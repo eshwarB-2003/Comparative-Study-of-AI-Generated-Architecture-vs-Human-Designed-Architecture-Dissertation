@@ -1,7 +1,6 @@
 package trade.repo;
 
 import trade.model.Credit;
-import trade.repo. CreditRepository;
 import java.io.*;
 import java.time.LocalDate;
 import java.util.*;

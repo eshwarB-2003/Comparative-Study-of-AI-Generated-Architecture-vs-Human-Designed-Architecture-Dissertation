@@ -1,4 +1,4 @@
-package com.trade.repo;
+package trade.repo;
 
 import trade.model.Credit;
 import java.util.List;
