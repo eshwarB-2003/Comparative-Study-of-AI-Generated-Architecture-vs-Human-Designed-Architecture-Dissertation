@@ -59,11 +59,11 @@ The research follows these main stages:
 
 ---
 
-# Proof of Concept — Carbon Credit Trading Platform
+# Proof of Concept — Carbon Credit Exchange Trading System
 
 ## Overview
 
-A key component of this research is the **Proof of Concept (PoC): a Carbon Credit Trading Platform** developed specifically to demonstrate the application of the comparative architecture evaluation methodology in an independently implemented system.
+A key component of this research is the **Proof of Concept (PoC): a Carbon Credit Exchange Trading System** developed specifically to demonstrate the application of the comparative architecture evaluation methodology in an independently implemented system.
 
 Unlike the published case studies, the PoC provides an additional level of **implementation evidence**, allowing the architectural comparison to be examined alongside an actual working software implementation.
 
