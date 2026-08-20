@@ -1,9 +1,9 @@
-package com.trade.view;
+package trade.view;
 
-import com.trade.controller.SellerController;
-import com.trade.model.Credit;
-import com.trade.model.SustainabilityAction;
-import com.trade.model.User;
+import trade.controller.SellerController;
+import trade.model.Credit;
+import trade.model.SustainabilityAction;
+import trade.model.User;
 
 import java.util.List;
 import java.util.Scanner;

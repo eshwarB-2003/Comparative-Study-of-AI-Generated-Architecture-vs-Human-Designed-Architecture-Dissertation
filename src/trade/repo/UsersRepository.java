@@ -65,8 +65,7 @@ public class UsersRepository {
                         map.get("name"),
                         map.get("email"),
                         map.get("role"),
-                        map.get("passwordHash"),
-                        Double.parseDouble(map.getOrDefault("balance", "0"))
+                        map.get("passwordHash")
                 );
 
                 users.add(u);

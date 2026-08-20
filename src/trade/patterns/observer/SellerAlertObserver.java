@@ -1,4 +1,4 @@
-package com.trade.patterns.observer;
+package trade.patterns.observer;
 
 public class SellerAlertObserver implements Observer {
 

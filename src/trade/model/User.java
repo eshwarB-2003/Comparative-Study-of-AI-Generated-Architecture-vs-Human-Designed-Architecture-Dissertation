@@ -14,7 +14,7 @@ public class User {
         this.email = email;
         this.role = role;
         this.passwordHash = passwordHash;
-        this.balance = 1000;
+        this.balance = 0.0;
     }
 
     public String getName() { return name; }

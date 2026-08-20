@@ -1,4 +1,4 @@
-package com.trade.model;
+package trade.model;
 
 /*
  * SustainabilityAction represents an action

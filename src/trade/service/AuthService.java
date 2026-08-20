@@ -16,7 +16,7 @@ public class AuthService {
         }
 
         String hashed = hash(password);
-        users.add(new User(name, email, role, hashed, 0.0));
+        users.add(new User(name, email, role, hashed));
         repo.saveUsers(users);
         return true;
     }
